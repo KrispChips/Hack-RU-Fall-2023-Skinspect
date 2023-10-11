@@ -7,7 +7,7 @@ Our web-app implements TensorFlow and Keras for our Convolution Neural Network (
 
 Our front-end for the web app was made with python API Streamlit! Our site has a side-bar which has basic information on what a benign and malignant tumor is and can help the reader understand the condition better. In the center, there is a file input where the user can either drag-and-drop their file or upload the file from their computer. Once the file is taken, our model will classify whether the skin mole is either benign or malignant and report underneath with more information on further treatment and action to take. It is also reported on the sidebar with accuracy percentage of our model. In the future, we wish to improve on the UI of our website as it is simple but it gets the job done!
 
-[website][Screenshot Hack RU 2023 Fall SkinSpect Site 2023-10-10 134914.png]
+![website][Screenshot Hack RU 2023 Fall SkinSpect Site 2023-10-10 134914.png]
 
 
 We would like to thank Hack RU for inspiring and pushing us to do this project and we ended up getting Runner Up in the Health Track of the competition! We would love to further this project and improve upon the simple idea we currently have. 
