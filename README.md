@@ -11,3 +11,8 @@ Our front-end for the web app was made with python API Streamlit! Our site has a
 
 
 We would like to thank Hack RU for inspiring and pushing us to do this project and we ended up getting Runner Up in the Health Track of the competition! We would love to further this project and improve upon the simple idea we currently have. 
+
+Here is our submission video to see our intial submission and code:
+
+https://github.com/KrispChips/Hack-RU-Fall-2023-Skinspect/assets/89314955/02624c1b-4c4b-47f9-ae79-241f215440f6
+
